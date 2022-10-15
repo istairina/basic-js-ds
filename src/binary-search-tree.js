@@ -76,7 +76,7 @@ class BinarySearchTree {
         return findData(node.right, data);
       }
     }
-data
+
   }
 
   remove(data) {
@@ -159,7 +159,7 @@ module.exports = {
   BinarySearchTree
 };
 
-/*const tree = new BinarySearchTree();
+//const tree = new BinarySearchTree();
 
 /*tree.add(1);
 
